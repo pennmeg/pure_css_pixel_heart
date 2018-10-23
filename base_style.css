@@ -1,3 +1,7 @@
+body{
+  width: 100%;
+  box-sizing: border-box; 
+}
 #box {
   position: relative;
   width: 500px;
@@ -6,7 +10,16 @@
 }
 .pixel {
   position: absolute;
-  height: 0.5em;
-  width: 0.5em;
-  margin: 2px;
+  height: 1em;
+  width: 1em;
+  /* margin: 2px; */
+}
+.pixel--black {
+  background-color: black;
+}
+.pixel--white {
+  background-color: white;
+}
+.pixel--red {
+  background-color: red;
 }
