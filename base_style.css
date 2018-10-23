@@ -4,3 +4,9 @@
   height: 500px;
   margin: 5em auto;
 }
+.pixel {
+  position: absolute;
+  height: 0.5em;
+  width: 0.5em;
+  margin: 2px;
+}
