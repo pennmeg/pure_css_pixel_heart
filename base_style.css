@@ -16,10 +16,13 @@ body{
 }
 .pixel--black {
   background-color: black;
+  border: 1px solid black;
 }
 .pixel--white {
   background-color: white;
+  border: 1px solid white;
 }
 .pixel--red {
   background-color: red;
+  border: 1px solid red;
 }
