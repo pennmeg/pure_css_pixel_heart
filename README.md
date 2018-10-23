@@ -2,9 +2,11 @@
 
 ![Pure CSS: Pixel Heart](pure_css_pixel_heart.png)
 
-October 23, 2018
+*October 23, 2018*
 
-Other Pure CSS Images
+Creating a pixel-esque heart using classes.
+
+## Other Pure CSS Images
 
 * https://github.com/pennmeg/pure_css_image
 * https://github.com/pennmeg/pure_css_laptop
