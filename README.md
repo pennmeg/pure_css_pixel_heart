@@ -1,5 +1,4 @@
 # Pure CSS Challenge: Single Div
-## Single Div / Pixel Heart
 
 ![Pure CSS: Pixel Heart](pure_css_pixel_heart.png)
 
