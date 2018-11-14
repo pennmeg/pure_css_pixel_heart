@@ -6,6 +6,7 @@
 
 ## Other Pure CSS Images
 
+* https://github.com/pennmeg/pure_css-donut
 * https://github.com/pennmeg/pure_css_image
 * https://github.com/pennmeg/pure_css_laptop
 * https://github.com/pennmeg/pure_css_pug
